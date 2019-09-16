@@ -30,6 +30,7 @@ function mapDispatchToProps(dispatch) {
     return bindActionCreators({ selectBook: selectBookAction }, dispatch)
 }
 
+//-------------Mapping State to Props--------//
 function mapStateToProps(state) {
     return { books: state.books }
 }
