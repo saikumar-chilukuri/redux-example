@@ -4,7 +4,7 @@
   "description": "this is a simple redux app to understand basis.",
   "main": "index.js",
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "author": "Sai kumar",
   "license": "ISC",
